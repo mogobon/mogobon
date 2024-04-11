@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mogobon. 
+- 👋 Hi, I’m @Yuki Hayashi. 
 - 👀 I’m interested in datascience, AI, machine learning...etc. 
 - 🌱 I’m currently studying datascience.
 - 💞️ I’m looking to collaborate on ...
