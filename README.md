@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mogobon@icloud.com
 
-I'm university student, I want to learn datascience!
+I'm university student, I want to learn datascience and mathmatics!
 
 <!---
 mogobon/mogobon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
