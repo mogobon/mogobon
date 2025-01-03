@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mogobon. 
 - 👀 I’m interested in datascience, AI, machine learning...etc. 
 - 🌱 I’m currently studying datascience.
-- 🧑‍🎓 Graduate School of Science and Engineering, Department of Data Science 
+- 🧑‍🎓 Graduate School of Science and Engineering, Department of Data Science (Master's Program)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mogobon@icloud.com
 
